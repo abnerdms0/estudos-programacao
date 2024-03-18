@@ -1,4 +1,4 @@
 # estudos-programacao
- peimeiro repositório 
+ primeiro repositório 
 
  repositório cirado para estudos; 
